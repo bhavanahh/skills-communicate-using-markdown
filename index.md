@@ -7,3 +7,10 @@
 var myVar = "Hello, world!";
 ```python
 print("Hello, Bhavana!")
+```
+### My To-Do List
+
+- [ ] Learn Markdown  
+- [ ] Add headers to index.md  
+- [x] Insert an image  
+- [ ] Create a task list  
